@@ -5,3 +5,4 @@
 
 ![Build Framework](https://github.com/99002503/Mini_Project/workflows/Build%20Framework/badge.svg?branch=master)
 file:///C:/Users/TRAINING/Downloads/Applied%20SDLC_SW_Testing%20(2).pdf
+![Valgrind](https://github.com/99002503/Mini_Project/workflows/Valgrind/badge.svg?branch=master)
