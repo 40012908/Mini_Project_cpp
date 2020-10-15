@@ -6,3 +6,5 @@
 ![Build Framework](https://github.com/99002503/Mini_Project/workflows/Build%20Framework/badge.svg?branch=master)
 
 ![Valgrind](https://github.com/99002503/Mini_Project/workflows/Valgrind/badge.svg?branch=master)
+
+![gtest](https://github.com/99002503/Mini_Project/workflows/gtest/badge.svg?branch=master)
